@@ -99,4 +99,4 @@ Test set: Avg. loss: 0.0277, Accuracy: 9913/10000 (99%)
 ```
 
 趨勢圖：
-![image](https://github.com/wrr606/ai/blob/main/homework/7/image.png)
+![image](https://github.com/wrr606/ai/blob/master/homework/7/image.png)
