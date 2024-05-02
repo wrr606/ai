@@ -1,0 +1,13 @@
+scores: 9.0
+scores: 189.0
+scores: 118.0
+scores: 192.0
+scores: 154.0
+scores: 9.0
+scores: 157.0
+scores: 217.0
+scores: 145.0
+scores: 186.0
+max: 217.0
+min: 9.0
+avg: 137.6
