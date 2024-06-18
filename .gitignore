@@ -6,7 +6,6 @@
 
 # Unignore all dirs
 !*/
-
 !LICENSE
 
 ### Above combination will ignore all files without extension ###
@@ -17,9 +16,8 @@
 __pycache__
 test.*
 .vscode*
-*.csv
 test*
-
+!test.csv
 # Ignore `bin` dir
 bin/
 # or
