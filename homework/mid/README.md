@@ -5,5 +5,7 @@
 
 ### 參考資料
 https://reurl.cc/oR3Axq
+
 https://hackmd.io/@Go3PyC86QhypSl7kh5nA2Q/Hk4nXFYkK
+
 https://www.kaggle.com/code/mustafamu/titanic-using-cnn/notebook
